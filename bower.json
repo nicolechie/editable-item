@@ -1,0 +1,19 @@
+{
+  "name": "editable-item",
+  "homepage": "https://github.com/nicolechie/editable-item",
+  "authors": [
+    "nicolechie <nicolechie@mac.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5"
+  }
+}
